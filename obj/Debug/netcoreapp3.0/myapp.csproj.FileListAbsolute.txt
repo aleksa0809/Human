@@ -1,0 +1,11 @@
+/Users/aleksandrasagitova/Desktop/NEW/myapp/bin/Debug/netcoreapp3.0/myapp
+/Users/aleksandrasagitova/Desktop/NEW/myapp/bin/Debug/netcoreapp3.0/myapp.deps.json
+/Users/aleksandrasagitova/Desktop/NEW/myapp/bin/Debug/netcoreapp3.0/myapp.runtimeconfig.json
+/Users/aleksandrasagitova/Desktop/NEW/myapp/bin/Debug/netcoreapp3.0/myapp.runtimeconfig.dev.json
+/Users/aleksandrasagitova/Desktop/NEW/myapp/bin/Debug/netcoreapp3.0/myapp.dll
+/Users/aleksandrasagitova/Desktop/NEW/myapp/bin/Debug/netcoreapp3.0/myapp.pdb
+/Users/aleksandrasagitova/Desktop/NEW/myapp/obj/Debug/netcoreapp3.0/myapp.csprojAssemblyReference.cache
+/Users/aleksandrasagitova/Desktop/NEW/myapp/obj/Debug/netcoreapp3.0/myapp.AssemblyInfoInputs.cache
+/Users/aleksandrasagitova/Desktop/NEW/myapp/obj/Debug/netcoreapp3.0/myapp.AssemblyInfo.cs
+/Users/aleksandrasagitova/Desktop/NEW/myapp/obj/Debug/netcoreapp3.0/myapp.dll
+/Users/aleksandrasagitova/Desktop/NEW/myapp/obj/Debug/netcoreapp3.0/myapp.pdb
